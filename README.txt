@@ -1,2 +1,2 @@
-# u-cube_prepare
+# ucube_prepare
 print("hello.txt")
